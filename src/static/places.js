@@ -2,7 +2,7 @@ const places = [
   {
     title: 'Software & Databases',
     description:
-      "Realizamos software de gestión empresrial, construimos tu base de datos o la migramos aprovechando la última técnologia para ello.",
+      "Realizamos software de gestión empresarial, construimos tu base de datos o la migramos aprovechando la última técnologia para ello.",
     imageUrl: process.env.PUBLIC_URL + '/assets/soft2.jpg',
     time: 1500,
   },
