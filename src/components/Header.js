@@ -35,7 +35,7 @@ const useStyles = makeStyles((theme) => ({
   },
   title: {
     color: '#fff',
-    fontSize: '4.5rem',
+    fontSize: '3.5rem',
   },
   goDown: {
     color: '#1f9eb8',
